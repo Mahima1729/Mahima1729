@@ -1,6 +1,7 @@
                                                          👋 Hey , Data Enthusiasts
 
-   ![Screenshot (214)](https://user-images.githubusercontent.com/91668225/195261480-2003bcdd-cf6c-4646-859a-078f936f716f.png)
+  ![Screenshot (213)](https://user-images.githubusercontent.com/91668225/195262381-2febd3f3-b79c-4df4-b8c2-080e734438b0.png)
+
 
 - 👀 I’m currently working on Data Science(Machine Learning) , Data Analyst , Power Bi and Artificial Intelligence projects.
 - 🌱 I’m currently learning Data Science And Artificial Intelligence to the depth of its core.
