@@ -6,7 +6,7 @@
 
 
 - 👀 I’m currently working on **Data Science** (**Machine Learning**) , **Data Analyst** , **PowerBi** and **Artificial Intelligence** projects.
-- 🌱 I’m currently learning Data Science And Artificial Intelligence to the depth of its core.
+- 🌱 I’m currently learning Machine Learning , Deep Learning and Natural Language Processing.
 - 💞️ I’m looking to collaborate on open Data science projects.
 - 📫 How to reach me : www.linkedin.com/in/mahima-soni
 
