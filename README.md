@@ -1,7 +1,8 @@
                                                          👋 Hey , Data Enthusiasts
                                                          
- ![Screenshot (213)](https://user-images.githubusercontent.com/91668225/195300555-983f503a-ea02-49cf-a10b-5362d4daeb76.png)
 
+
+![Screenshot (214)](https://user-images.githubusercontent.com/91668225/195301776-06092c78-3dfc-4a9a-82ea-95cfbd4932d9.png)
 
 
 - 👀 I’m currently working on **Data Science** (**Machine Learning**) , **Data Analyst** , **PowerBi** and **Artificial Intelligence** projects.
