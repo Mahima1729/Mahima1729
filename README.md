@@ -4,7 +4,7 @@
 ![Screenshot (213)](https://user-images.githubusercontent.com/91668225/195303243-3535d041-7073-49e7-9fda-1f84f9823025.png)
 
 
-- 👀 I’m currently working on **Data Science** (**Machine Learning**) , **Data Analyst** , **PowerBi** and **Artificial Intelligence** projects.
+- 👀 I’m currently working on **Data Science** (**Machine Learning**) , **Data Analysis** , **PowerBi** and **Artificial Intelligence** projects.
 - 🌱 I’m currently learning **Machine Learning** , **Deep Learning** and **Natural Language Processing**.
 - 💞️ I’m looking to collaborate on open Artificial Intelligence projects.
 - 📫 How to reach me : www.linkedin.com/in/mahima-soni
